@@ -1,5 +1,5 @@
 # DesignerTest - EN
-Simple test designed to test a designer hablities
+Simple test designed to test a designer abilities
 
 *[Versión en español](https://github.com/BelenSantos/DesignerTest/blob/master/README.ES.md)*
 
@@ -21,10 +21,10 @@ As part of this exercise we need you to create the main page of a Car Rental Com
   * Go into Account Details (link only)
   * Go to Settings (link only)
   * Search for cars
-2. A main section that shows each available car an the follwoing info:
+2. A main section that shows each available car and the following info:
   * Model
   * Photo
-  * Licence Plate
+  * License Plate
   * Price
   * Description
   
