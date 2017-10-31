@@ -3,7 +3,7 @@ Un ejercicio simple para poner a prueba las habilidades de un diseñador.
 
 *[English version](https://github.com/BelenSantos/DesignerTest/edit/master/README.md)*
 
-## Hablidades a poner a prueba
+## Habilidades a poner a prueba
 * HTML 5
 * CSS3 / SASS
 * Bootstrap / Material
@@ -12,7 +12,7 @@ Un ejercicio simple para poner a prueba las habilidades de un diseñador.
 ## Ejercicio
 
 ### Resumen
-Como parte de este ejercicio nececitamos que crees la página principal de una empresa de alquiler de autos llamada Libertal Autos. Dicha página debe contener:
+Como parte de este ejercicio necesitamos que crees la página principal de una empresa de alquiler de autos llamada Libertad Autos. Dicha página debe contener:
 1. Un menú principal donde el usuario pueda:
   * Visualizar el nombre de la empresa
   * Ir a una página "Nosotros" (sólo el link)
@@ -32,3 +32,4 @@ Para solucionar este ejercicio podés optar por usar CSS o SASS para los estilos
 
 ### Entregables esperados:
 Crea un branch con tu nombre que contenga dos carpetas con alternativas para solucionar el problema. Cada carpeta debe contener al menos un Wireframe, un archivo HTML y una hoja de estilos.
+
